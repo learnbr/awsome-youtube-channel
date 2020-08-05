@@ -25,4 +25,4 @@ Lista de canais no youtube
 | [Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A) | Desenvolvimento, Javascript                   | :brazil: Português |
 | [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)     | Carreira e empreendedorismo                   | :brazil: Português |
 | [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g) | Desenvolvimento, Jogos, Carreira              | :brazil: Português |
-
+| [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/) | WordPress | :brazil: Português |
