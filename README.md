@@ -26,3 +26,4 @@ Lista de canais no youtube
 | [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)     | Carreira e empreendedorismo                   | :brazil: Português |
 | [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g) | Desenvolvimento, Jogos, Carreira              | :brazil: Português |
 | [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/) | WordPress | :brazil: Português |
+| [Beto Muniz](https://www.youtube.com/user/obetomuniz) | Vídeos sobre Programação, Trabalho Remoto e Carreira. | :brazil: Português |
